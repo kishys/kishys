@@ -12,15 +12,12 @@ Hi, I am Kishan<br>I am currently working on different projects<br>I am also lea
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kishys&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kishys&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kishys&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=kishys&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishys&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kishys&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kishys&limit=5&theme=dark&combine_all_yearly_contributions=true)
