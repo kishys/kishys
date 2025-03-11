@@ -2,7 +2,7 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishys&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)](https://github.com/kishys/kishys/blob/main/README.md)<br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KishanSuhirthan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishansuhirthan@gmail.com) [!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KishanSuhirthan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishansuhirthan@gmail.com) 
 
 ## 💻 Tech Stack:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
