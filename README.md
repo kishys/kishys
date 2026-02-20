@@ -1,4 +1,4 @@
-## kishan suhirthan
+# kishan suhirthan
 <div align="center">
 
 [![site](https://img.shields.io/badge/website-kishansuhi.ca-b60e0e)](https://kishansuhi.ca)
@@ -8,7 +8,7 @@
 
 </div>
 
-# Tech Stack:
+## tech stack:
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
