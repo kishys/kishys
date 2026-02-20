@@ -4,11 +4,12 @@
 [![site](https://img.shields.io/badge/website-kishansuhi.ca-b60e0e)](https://kishansuhi.ca)
 [![views](https://komarev.com/ghpvc/?username=kishys&label=views&color=b60e0e&style=flat)](https://github.com/kishys) 
 
--16 yr old - Toronto, CA
+-16 yr old - Toronto, CA - Building
 
 </div>
 
 ## tech stack:
+<div align="center">
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -25,6 +26,7 @@
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
+</div>
 
 
 
