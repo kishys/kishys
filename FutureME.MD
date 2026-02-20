@@ -1,13 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishys/kishys/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishys/kishys/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kishys/kishys/output/pacman-contribution-graph.svg">
-</picture>
+# advay chandorkar
 
-###
+[![site](https://img.shields.io/badge/website-advay.ca-b60e0e)](https://advay.ca)
+[![views](https://komarev.com/ghpvc/?username=advayc&label=views&color=b60e0e&style=flat)](https://github.com/advayc) 
+[![site views](https://img.shields.io/endpoint?url=https%3A%2F%2Fnums.advay.ca%2Fbadge.json%3Fid%3Dhome%26label%3Dpersonal%2520site%2520views%26color=b60e0e
+)](https://advay.ca) 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kishys.kishys&"  />
-</div>
-
-###
+- im a 17 yr old full stack dev in toronto 🇨🇦
+- building autonomous robots making websites and [solving problems](https://dmoj.ca/user/advayc)
+- prev worked with: [futuremd](https://futuremd.net/) & [neurotechuoft](https://neurotechuoft.ca/)
