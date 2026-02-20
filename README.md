@@ -1,18 +1,13 @@
-## 💫 Views:
+## kishan suhirthan
 <div align="center">
-  
-
 
 [![site](https://img.shields.io/badge/website-kishansuhi.ca-b60e0e)](https://kishansuhi.ca)
 [![views](https://komarev.com/ghpvc/?username=kishys&label=views&color=b60e0e&style=flat)](https://github.com/kishys) 
 
--16 yr old | Toronto, CA
+-16 yr old - Toronto, CA
 
-</div>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KishanSuhirthan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishansuhirthan@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com) 
 
-## 💻 Tech Stack:
+Tech Stack:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
