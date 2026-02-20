@@ -1,14 +1,14 @@
 ## 💫 Views:
 <div align="center">
   
-</div>
+
 
 [![site](https://img.shields.io/badge/website-kishansuhi.ca-b60e0e)](https://kishansuhi.ca)
-  [![views](https://komarev.com/ghpvc/?username=kishys&label=views&color=b60e0e&style=flat)](https://github.com/kishys) 
+[![views](https://komarev.com/ghpvc/?username=kishys&label=views&color=b60e0e&style=flat)](https://github.com/kishys) 
 
 -16 yr old | Toronto, CA
 
-
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KishanSuhirthan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishansuhirthan@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com) 
 
