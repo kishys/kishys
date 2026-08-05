@@ -23,22 +23,22 @@ im currently building [dashflow](https://github.com/kishys/dashflow) -> connecti
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[dashflow](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>react, next, tailwind</samp><br>
+**[dashflow](https://github.com/kishys/dashflow)** &nbsp;·&nbsp; <samp>react, next, tailwind</samp><br>
 AI short-form video editor in the browser. Auto captions with accents,<br>
 drag-and-retime editing, b-roll placement: transcript in, rendered video out.
 
-**[logicwear](https://github.com/andriidrok1/strategy-checker)** &nbsp;·&nbsp; <samp>react, next, supabase</samp><br>
+**[logicwear](https://github.com/kishys/logicwear)** &nbsp;·&nbsp; <samp>react, next, supabase</samp><br>
 Describe a trading strategy in plain English, get a real backtest with<br>
 statistical validation. Exposes curve-fitting, not alpha.
 
-**[pomoexcel](https://github.com/andriidrok1/compound)** &nbsp;·&nbsp; <samp>next, tailwind, typescript</samp><br>
+**[pomoexcel](https://github.com/kishys/pomoexcel)** &nbsp;·&nbsp; <samp>next, tailwind, typescript</samp><br>
 Autonomous research agent for your second brain. Built solo at Nozomio<br>
 Hackathon, EF SF.
 
-**[edugenie](https://andriidrok.com)** &nbsp;·&nbsp; <samp>next, javascript, typescript</samp><br>
+**[edugenie](https://github.com/kishys/edugenie)** &nbsp;·&nbsp; <samp>next, javascript, typescript</samp><br>
 Particle-morph portfolio: thousands of particles reshaping between scenes.
 
-**[kishansuhi.ca](https://andriidrok.com)** &nbsp;·&nbsp; <samp>next, tailwind, typescript</samp><br>
+**[kishansuhi.ca]https://github.com/kishys/kishys-site)** &nbsp;·&nbsp; <samp>next, tailwind, typescript</samp><br>
 Particle-morph portfolio: thousands of particles reshaping between scenes.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
