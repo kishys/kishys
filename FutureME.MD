@@ -13,7 +13,8 @@
 > im a 17 yr old app dev in toronto 🇨🇦<br>
 > i love building apps and sites for ppl :)
 
-im currently building [autobroll](https://github.com/andriidrok1/autobroll) -> connecting HubSpot and Stripe, get AI-powered deal scoring, churn prediction, and revenue forecasting<br> in minutes.
+im currently building [autobroll](https://github.com/andriidrok1/autobroll) -> connecting HubSpot and Stripe, get AI-powered deal scoring, churn prediction,
+<br>and revenue forecasting - in minutes.
 
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
