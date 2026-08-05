@@ -40,7 +40,7 @@ ai-powered educational app providing step-by-step tutoring<br>
 and guidance for homework problems from uploaded images.
 
 **[kishansuhi.ca](https://github.com/kishys/kishys-site)** &nbsp;·&nbsp; <samp>next, tailwind, typescript</samp><br>
-personal portfolio website showcasing robotics & engineering experiences, projects, awards, etc.
+personal portfolio website showcasing robotics & engineering experiences, <br>projects, awards, certifications, etc.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
