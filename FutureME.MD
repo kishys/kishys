@@ -12,7 +12,7 @@
 <img src="./hd-about.svg" width="620" alt="about"/>
 
 > im a 17 yr old app dev in toronto 🇨🇦<br>
-> i love building apps and sites for ppl :)
+> i love building apps and products for ppl to use :)
 
 im currently building [dashflow](https://github.com/kishys/dashflow) -> connecting HubSpot and Stripe, get AI-powered deal scoring, churn prediction,
 <br>and revenue forecasting in minutes.
