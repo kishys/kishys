@@ -24,22 +24,23 @@ im currently building [dashflow](https://github.com/kishys/dashflow) -> connecti
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
 **[dashflow](https://github.com/kishys/dashflow)** &nbsp;·&nbsp; <samp>react, next, tailwind</samp><br>
-AI short-form video editor in the browser. Auto captions with accents,<br>
-drag-and-retime editing, b-roll placement: transcript in, rendered video out.
+connecting HubSpot and Stripe, get AI-powered deal scoring, churn prediction,<br>
+and revenue forecasting in only minutes.
 
 **[logicwear](https://github.com/kishys/logicwear)** &nbsp;·&nbsp; <samp>react, next, supabase</samp><br>
-Describe a trading strategy in plain English, get a real backtest with<br>
-statistical validation. Exposes curve-fitting, not alpha.
+An AI-powered wardrobe application that generates personalized outfit<br>
+combinations based on a user's uploaded clothing inventory.
 
 **[pomoexcel](https://github.com/kishys/pomoexcel)** &nbsp;·&nbsp; <samp>next, tailwind, typescript</samp><br>
-Autonomous research agent for your second brain. Built solo at Nozomio<br>
-Hackathon, EF SF.
+A customizable Pomodoro timer application built to track productivity<br>
+and manage focused work sessions with tailored break intervals.
 
 **[edugenie](https://github.com/kishys/edugenie)** &nbsp;·&nbsp; <samp>next, javascript, typescript</samp><br>
-Particle-morph portfolio: thousands of particles reshaping between scenes.
+AI-powered educational app providing step-by-step tutoring<br>
+and guidance for homework problems from uploaded images.
 
 **[kishansuhi.ca](https://github.com/kishys/kishys-site)** &nbsp;·&nbsp; <samp>next, tailwind, typescript</samp><br>
-Particle-morph portfolio: thousands of particles reshaping between scenes.
+Personal portfolio website showcasing robotics & engineering experiences, projects, awards, etc.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
