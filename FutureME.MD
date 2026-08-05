@@ -18,7 +18,7 @@ im currently building [dashflow](https://github.com/kishys/dashflow) -> connecti
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; tailwindcss &nbsp; c &nbsp; </samp>
+<samp>python &nbsp; java &nbsp; c &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; tailwindcss &nbsp; </samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
