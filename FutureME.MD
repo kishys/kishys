@@ -4,7 +4,7 @@
 
 [kishansuhi.ca](https://kishansuhi.ca) &nbsp;·&nbsp;
 [linkedin](https://www.linkedin.com/in/kishansuhirthan/) &nbsp;·&nbsp;
-[devpost]https://devpost.com/kishys) &nbsp;·&nbsp;
+[devpost](https://devpost.com/kishys) &nbsp;·&nbsp;
 [email](mailto:kishansuhirthan@gmail.com)
 
 </div>
