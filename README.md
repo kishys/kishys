@@ -24,7 +24,7 @@ im currently building [dashflow](https://github.com/kishys/dashflow) -> connecti
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
 **[dashflow](https://github.com/kishys/dashflow)** &nbsp;·&nbsp; <samp>react, next, tailwind</samp><br>
-connecting HubSpot and Stripe, get AI-powered deal scoring, churn prediction,<br>
+connecting HubSpot and Stripe, get AI-powered deal scoring, <br>churn prediction,
 and revenue forecasting in only minutes.
 
 **[logicwear](https://github.com/kishys/logicwear)** &nbsp;·&nbsp; <samp>react, next, supabase</samp><br>
