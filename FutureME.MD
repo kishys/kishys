@@ -23,19 +23,22 @@ im currently building [dashflow](https://github.com/kishys/dashflow) -> connecti
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[autobroll](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
+**[dashflow](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
 AI short-form video editor in the browser. Auto captions with accents,<br>
 drag-and-retime editing, b-roll placement: transcript in, rendered video out.
 
-**[strategy-checker](https://github.com/andriidrok1/strategy-checker)** &nbsp;·&nbsp; <samp>python</samp><br>
+**[logicwear](https://github.com/andriidrok1/strategy-checker)** &nbsp;·&nbsp; <samp>python</samp><br>
 Describe a trading strategy in plain English, get a real backtest with<br>
 statistical validation. Exposes curve-fitting, not alpha.
 
-**[compound](https://github.com/andriidrok1/compound)** &nbsp;·&nbsp; <samp>typescript, convex</samp><br>
+**[pomoexcel](https://github.com/andriidrok1/compound)** &nbsp;·&nbsp; <samp>typescript, convex</samp><br>
 Autonomous research agent for your second brain. Built solo at Nozomio<br>
 Hackathon, EF SF.
 
-**[andriidrok.com](https://andriidrok.com)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
+**[edugenie](https://andriidrok.com)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
+Particle-morph portfolio: thousands of particles reshaping between scenes.
+
+**[kishansuhi.ca](https://andriidrok.com)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
 Particle-morph portfolio: thousands of particles reshaping between scenes.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
