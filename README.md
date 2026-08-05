@@ -1,33 +1,75 @@
-# kishan suhirthan
 <div align="center">
 
-[![site](https://img.shields.io/badge/website-kishansuhi.ca-b60e0e)](https://kishansuhi.ca)
-[![views](https://komarev.com/ghpvc/?username=kishys&label=views&color=b60e0e&style=flat)](https://github.com/kishys) 
+<img src="./ascii.svg" width="460" alt="Andrii Drok"/>
 
-17 yr old - Toronto, CA - Building
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+
+[andriidrok.com](https://andriidrok.com) &nbsp;·&nbsp;
+[instagram](https://www.instagram.com/andrii_drok/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/andriidrok/) &nbsp;·&nbsp;
+[email](mailto:clb@mirasvit.com)
 
 </div>
 
-## tech stack:
+<img src="./hd-about.svg" width="620" alt="about"/>
+
+> CS student at San Francisco State, in the SF Bay Area.<br>
+> Small, sharp tools over big vague ideas.
+
+I build fast, test on real users, and kill what doesn't work. Right now that's<br>
+[autobroll](https://github.com/andriidrok1/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
+deep into markets: Pine Script indicators, backtesting, on-chain data.
+
+<img src="./hd-stack.svg" width="620" alt="stack"/>
+
+<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+
+<img src="./hd-projects.svg" width="620" alt="projects"/>
+
+**[autobroll](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
+AI short-form video editor in the browser. Auto captions with accents,<br>
+drag-and-retime editing, b-roll placement: transcript in, rendered video out.
+
+**[strategy-checker](https://github.com/andriidrok1/strategy-checker)** &nbsp;·&nbsp; <samp>python</samp><br>
+Describe a trading strategy in plain English, get a real backtest with<br>
+statistical validation. Exposes curve-fitting, not alpha.
+
+**[compound](https://github.com/andriidrok1/compound)** &nbsp;·&nbsp; <samp>typescript, convex</samp><br>
+Autonomous research agent for your second brain. Built solo at Nozomio<br>
+Hackathon, EF SF.
+
+**[andriidrok.com](https://andriidrok.com)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
+Particle-morph portfolio: thousands of particles reshaping between scenes.
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
+
 <div align="center">
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.geeksforgeeks.org/c-programming-language/) 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.geeksforgeeks.org/html-introduction/)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.geeksforgeeks.org/css-tutorial/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.geeksforgeeks.org/python-programming-language-tutorial/)
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) 
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
 
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
+Every graphic here is generated, not embedded from anyone else's server.<br>
+`ascii.svg` is a photo pushed through a character ramp by<br>
+[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
+these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
+
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64. That isn't only for looks: the<br>
+portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
+default monospace is narrower would otherwise see it squeezed.
+
+Language totals cover public repositories only. `year.svg` uses the portrait's<br>
+character ramp: `:` `+` `#` `@`, quiet to loud.
