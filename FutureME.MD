@@ -28,19 +28,19 @@ connecting HubSpot and Stripe, get AI-powered deal scoring, churn prediction,<br
 and revenue forecasting in only minutes.
 
 **[logicwear](https://github.com/kishys/logicwear)** &nbsp;·&nbsp; <samp>react, next, supabase</samp><br>
-An AI-powered wardrobe application that generates personalized outfit<br>
+ai-powered wardrobe application that generates personalized outfit<br>
 combinations based on a user's uploaded clothing inventory.
 
 **[pomoexcel](https://github.com/kishys/pomoexcel)** &nbsp;·&nbsp; <samp>next, tailwind, typescript</samp><br>
-A customizable Pomodoro timer application built to track productivity<br>
+customizable Pomodoro timer application built to track productivity<br>
 and manage focused work sessions with tailored break intervals.
 
 **[edugenie](https://github.com/kishys/edugenie)** &nbsp;·&nbsp; <samp>next, javascript, typescript</samp><br>
-AI-powered educational app providing step-by-step tutoring<br>
+ai-powered educational app providing step-by-step tutoring<br>
 and guidance for homework problems from uploaded images.
 
 **[kishansuhi.ca](https://github.com/kishys/kishys-site)** &nbsp;·&nbsp; <samp>next, tailwind, typescript</samp><br>
-Personal portfolio website showcasing robotics & engineering experiences, projects, awards, etc.
+personal portfolio website showcasing robotics & engineering experiences, projects, awards, etc.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
