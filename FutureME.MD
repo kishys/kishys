@@ -38,7 +38,7 @@ Hackathon, EF SF.
 **[edugenie](https://github.com/kishys/edugenie)** &nbsp;·&nbsp; <samp>next, javascript, typescript</samp><br>
 Particle-morph portfolio: thousands of particles reshaping between scenes.
 
-**[kishansuhi.ca]https://github.com/kishys/kishys-site)** &nbsp;·&nbsp; <samp>next, tailwind, typescript</samp><br>
+**[kishansuhi.ca](https://github.com/kishys/kishys-site)** &nbsp;·&nbsp; <samp>next, tailwind, typescript</samp><br>
 Particle-morph portfolio: thousands of particles reshaping between scenes.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
